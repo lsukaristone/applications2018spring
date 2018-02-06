@@ -1,0 +1,12 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Initial Wireframes",
+      "file" : "initialwireframes.html"
+    },
+    {
+      "name" : "Revised Product List Page",
+      "file" : "newproductlistpage.html"
+    },
+  ]
+}
