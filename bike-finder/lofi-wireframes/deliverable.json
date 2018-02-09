@@ -5,12 +5,16 @@
       "file" : "initialwireframes.html"
     },
     {
-      "name" : "Revised Product List Page",
-      "file" : "revisedlistitempage.html"
-    }, 
-    {
     "name" : "Revised Mockups 2_7",
       "file" : "revisedmockups.html"
+    }, 
+    {
+    "name" : "Revised Mockups 2_9",
+    "file" : "revisedwireframes2_9.html"
+    }, 
+    {
+    "name" : "Sitemap 2_9",
+    "file" : "sitemap.html"
     }
   ]
 }
