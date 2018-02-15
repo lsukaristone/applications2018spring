@@ -1,0 +1,13 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Initial Mockups Feb12th",
+      "file" : "index.html"
+    }, 
+    {
+      "name" : "Revised Mockups Feb14th",
+      "file" : "index2.html"
+    }
+
+  ]
+}
