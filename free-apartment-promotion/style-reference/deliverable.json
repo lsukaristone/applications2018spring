@@ -1,0 +1,17 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Ref1",
+      "file" : "index.html"
+    }, 
+    {
+      "name" : "Ref2",
+      "file" : "ref2.html"
+    },
+    {
+      "name" : "Ref3",
+      "file" : "ref3.html"
+    }
+
+  ]
+}
