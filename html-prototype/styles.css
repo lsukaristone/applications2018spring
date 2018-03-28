@@ -1,0 +1,119 @@
+
+
+body, html { 
+
+	/*margin-left: 10%;
+	margin-right: 10%; */
+	font-family: 'Nunito';
+	margin:0px;
+    padding:0px;
+
+ }
+
+ html { 
+ 	background-color: white;
+  }
+
+.headerbar { 
+	width: 100%;
+	height: 52px;
+  	background-color: #ececec;
+  	margin:0px;
+    padding:0px;
+ }
+
+ #logo { 
+	 height: 30px;
+	 position: relative;
+	 top: 20%;
+	 left: 7%; 
+	}
+
+.enter { 
+  	width: 300px;
+  	height: 49px;
+  	border-radius: 6px;
+  	background-color: #ededee;
+  	box-shadow: 0 0.5px 2px 0 rgba(0, 0, 0, 0.5);
+  	font-size: 16px;
+  } 
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: solid 2px #aacb92;
+    
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 0;
+	}
+
+	#name { 
+		margin-bottom: 35px;
+	 }
+
+	 #email { 
+	 margin-bottom: 0px; }
+
+	.form { 
+		margin-left: 13%;
+		margin-right: 13%;
+		margin-bottom: 70px;
+	 }
+
+	h3 { 
+		text-align: center;
+		color: #9B9B9B;
+		margin-bottom: 0; 
+		}
+	h2 { 
+		text-align: center;
+		color: #02480f;
+		margin-top: 0;
+		margin-bottom: 60px;
+	 }
+	#errormessage { 
+		height: 70px;
+	  }
+
+	 #error {
+	 	color: #d0021b;
+	 	font-size: 12px;
+	 	display: none;
+	 }
+
+	.checkbox {
+	 	margin-bottom: 40px;
+	 }
+
+	 .label {
+	 	font-weight: 300;
+	 	color: #9B9B9B;
+	 }
+
+
+	 @media screen and (min-width: 300px) and (max-width: 592px) {
+		h2 {
+		    text-align: center;
+		    color: #02480f;
+		    margin-top: 0;
+		    margin-bottom: 40px;
+		}
+
+		.checkbox {
+    margin-bottom: 25px;
+}
+#errormessage {
+    height: 55px;
+}
+	 }
+
+a:link { 
+color: #02480f; }
+
+a:visited { 
+	color: #02480f;
+ }
