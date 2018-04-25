@@ -1,0 +1,13 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Clickable Final Prototype",
+      "file" : "index.html"
+    }, 
+    {
+      "name" : "Design Comparisons",
+      "file" : "index2.html"
+    }
+
+  ]
+}
